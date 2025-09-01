@@ -1,0 +1,32 @@
+# Core dependencies
+pinecone>=7.0.0
+langchain-core>=0.3.0
+langchain-openai>=0.3.0
+langchain-pinecone>=0.2.0
+langchain-huggingface>=0.3.0
+
+# Embedding models
+sentence-transformers>=2.0.0
+transformers>=4.40.0
+torch>=2.0.0
+
+# Data processing
+pinecone-datasets>=0.1.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# OpenAI integration (if needed)
+openai>=1.0.0
+
+# Groq integration (for openAI.py)
+groq>=0.4.0
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+tqdm>=4.65.0
+
+# Development dependencies (optional)
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
