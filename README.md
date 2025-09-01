@@ -15,8 +15,9 @@ AI-powered text processing and vector search with Pinecone, featuring both pre-e
 - Python 3.12+
 - UV package manager
 - Pinecone API key
+- Groq API key
 - OpenAI API key (optional)
-- Groq API key (optional)
+
 
 ## 🛠️ Installation
 
